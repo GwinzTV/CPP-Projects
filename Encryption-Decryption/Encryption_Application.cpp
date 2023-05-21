@@ -15,7 +15,7 @@ int main()
     char username[20], password[20], uname[20]="p1", pass[20]="p2", choice;
     int op;
     cout<<"---------------------------------------------";
-    cout<<"\n|  The security of your information matters |\n";
+    cout<<"\n|  The Security of your information matters |\n";
     cout<<"---------------------------------------------\n";
     cout<<"     PLEASE LOG IN TO USE FEATURES"<<endl;
     cout<<"---------------------------------------------\n";
